@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [1044-longest-duplicate-substring](https://github.com/nivetha852/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
+| [1392-longest-happy-prefix](https://github.com/nivetha852/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/nivetha852/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
+| [1392-longest-happy-prefix](https://github.com/nivetha852/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
 ## Suffix Array
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/nivetha852/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
+| [1392-longest-happy-prefix](https://github.com/nivetha852/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
 ## Suffix Automaton
 |  |
 | ------- |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/nivetha852/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
+| [1392-longest-happy-prefix](https://github.com/nivetha852/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -92,4 +96,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/nivetha852/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/nivetha852/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
