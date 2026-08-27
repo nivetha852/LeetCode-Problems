@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nivetha852/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0151-reverse-words-in-a-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0806-number-of-lines-to-write-string) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
