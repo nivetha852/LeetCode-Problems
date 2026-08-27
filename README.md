@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/nivetha852/LeetCode-Problems/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0806-number-of-lines-to-write-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/nivetha852/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/nivetha852/LeetCode-Problems/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/nivetha852/LeetCode-Problems/tree/master/0278-first-bad-version) |
 | [0875-koko-eating-bananas](https://github.com/nivetha852/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1044-longest-duplicate-substring](https://github.com/nivetha852/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nivetha852/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0324-wiggle-sort-ii) |
 ## Rolling Hash
 |  |
@@ -211,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/1122-relative-sort-array) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
