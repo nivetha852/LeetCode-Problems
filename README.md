@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/nivetha852/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0806-number-of-lines-to-write-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/nivetha852/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/nivetha852/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nivetha852/LeetCode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/nivetha852/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/nivetha852/LeetCode-Problems/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/nivetha852/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0977-squares-of-a-sorted-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/nivetha852/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 ## Quickselect
