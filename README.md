@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/nivetha852/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/nivetha852/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/nivetha852/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/nivetha852/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
@@ -109,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/nivetha852/LeetCode-Problems/tree/master/0078-subsets) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/nivetha852/LeetCode-Problems/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/nivetha852/LeetCode-Problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
