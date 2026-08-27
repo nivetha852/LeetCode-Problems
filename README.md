@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/nivetha852/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0078-subsets](https://github.com/nivetha852/LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0090-subsets-ii) |
+| [0162-find-peak-element](https://github.com/nivetha852/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0324-wiggle-sort-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0806-number-of-lines-to-write-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/nivetha852/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nivetha852/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0162-find-peak-element](https://github.com/nivetha852/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/nivetha852/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1044-longest-duplicate-substring](https://github.com/nivetha852/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nivetha852/LeetCode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
