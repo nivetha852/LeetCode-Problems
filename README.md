@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/nivetha852/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0459-repeated-substring-pattern](https://github.com/nivetha852/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [1044-longest-duplicate-substring](https://github.com/nivetha852/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/nivetha852/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/nivetha852/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [1044-longest-duplicate-substring](https://github.com/nivetha852/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/nivetha852/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/nivetha852/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/nivetha852/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/nivetha852/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/1408-string-matching-in-an-array) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/nivetha852/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/nivetha852/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/nivetha852/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
 ## Backtracking
 |  |
