@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/nivetha852/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/nivetha852/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Bit Manipulation
 |  |
@@ -72,9 +73,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/nivetha852/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/nivetha852/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Two Pointers
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0344-reverse-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/nivetha852/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/nivetha852/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
