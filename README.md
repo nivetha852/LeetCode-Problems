@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nivetha852/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/nivetha852/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/nivetha852/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0344-reverse-string) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/nivetha852/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/nivetha852/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [1044-longest-duplicate-substring](https://github.com/nivetha852/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1044-longest-duplicate-substring](https://github.com/nivetha852/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
 ## Math
 |  |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nivetha852/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0344-reverse-string) |
 ## Dynamic Programming
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/nivetha852/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/nivetha852/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0796-rotate-string) |
@@ -128,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/nivetha852/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/nivetha852/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/nivetha852/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
