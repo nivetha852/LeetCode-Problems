@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/nivetha852/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0324-wiggle-sort-ii) |
+| [0493-reverse-pairs](https://github.com/nivetha852/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0806-number-of-lines-to-write-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/nivetha852/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1122-relative-sort-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/1122-relative-sort-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/nivetha852/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/nivetha852/LeetCode-Problems/tree/master/0278-first-bad-version) |
+| [0493-reverse-pairs](https://github.com/nivetha852/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/nivetha852/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1044-longest-duplicate-substring](https://github.com/nivetha852/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nivetha852/LeetCode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/nivetha852/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0324-wiggle-sort-ii) |
+| [0493-reverse-pairs](https://github.com/nivetha852/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -250,4 +253,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/nivetha852/LeetCode-Problems/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/nivetha852/LeetCode-Problems/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/nivetha852/LeetCode-Problems/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/nivetha852/LeetCode-Problems/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/nivetha852/LeetCode-Problems/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/nivetha852/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
