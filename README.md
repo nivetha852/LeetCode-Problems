@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nivetha852/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nivetha852/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/nivetha852/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0078-subsets](https://github.com/nivetha852/LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0806-number-of-lines-to-write-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0806-number-of-lines-to-write-string) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nivetha852/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/nivetha852/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/nivetha852/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/nivetha852/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nivetha852/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0214-shortest-palindrome](https://github.com/nivetha852/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nivetha852/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
