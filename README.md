@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nivetha852/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/nivetha852/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/nivetha852/LeetCode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/nivetha852/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/nivetha852/LeetCode-Problems/tree/master/0078-subsets) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/nivetha852/LeetCode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/nivetha852/LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0090-subsets-ii) |
