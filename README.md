@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/nivetha852/LeetCode-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/nivetha852/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nivetha852/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/nivetha852/LeetCode-Problems/tree/master/0268-missing-number) |
