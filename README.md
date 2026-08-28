@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nivetha852/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nivetha852/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/nivetha852/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0451-sort-characters-by-frequency](https://github.com/nivetha852/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1122-relative-sort-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 ## String
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/nivetha852/LeetCode-Problems/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/nivetha852/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/nivetha852/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/nivetha852/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nivetha852/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/nivetha852/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [1044-longest-duplicate-substring](https://github.com/nivetha852/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
 ## Binary Search
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/nivetha852/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/nivetha852/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/nivetha852/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/nivetha852/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/nivetha852/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/nivetha852/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/nivetha852/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/nivetha852/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
@@ -127,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/nivetha852/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/nivetha852/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/nivetha852/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/nivetha852/LeetCode-Problems/tree/master/0686-repeated-string-match) |
@@ -136,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/nivetha852/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0686-repeated-string-match](https://github.com/nivetha852/LeetCode-Problems/tree/master/0686-repeated-string-match) |
 | [1044-longest-duplicate-substring](https://github.com/nivetha852/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
 ## Math
@@ -152,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/nivetha852/LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0090-subsets-ii) |
+| [0187-repeated-dna-sequences](https://github.com/nivetha852/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0779-k-th-symbol-in-grammar](https://github.com/nivetha852/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nivetha852/LeetCode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Recursion
