@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/nivetha852/LeetCode-Problems/tree/master/0274-h-index) |
+| [0287-find-the-duplicate-number](https://github.com/nivetha852/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0493-reverse-pairs](https://github.com/nivetha852/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0645-set-mismatch](https://github.com/nivetha852/LeetCode-Problems/tree/master/0645-set-mismatch) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/nivetha852/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/nivetha852/LeetCode-Problems/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/nivetha852/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/nivetha852/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/nivetha852/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/nivetha852/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/nivetha852/LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/nivetha852/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
+| [0287-find-the-duplicate-number](https://github.com/nivetha852/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/nivetha852/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/nivetha852/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nivetha852/LeetCode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/nivetha852/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/nivetha852/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0969-pancake-sorting](https://github.com/nivetha852/LeetCode-Problems/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/nivetha852/LeetCode-Problems/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/nivetha852/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nivetha852/LeetCode-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Linked List
 |  |
@@ -392,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/nivetha852/LeetCode-Problems/tree/master/0051-n-queens) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nivetha852/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
