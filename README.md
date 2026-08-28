@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nivetha852/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/nivetha852/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0047-permutations-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/nivetha852/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/nivetha852/LeetCode-Problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/nivetha852/LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nivetha852/LeetCode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/nivetha852/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/nivetha852/LeetCode-Problems/tree/master/0164-maximum-gap) |
