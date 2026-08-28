@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/nivetha852/LeetCode-Problems/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/nivetha852/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0324-wiggle-sort-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/nivetha852/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0645-set-mismatch](https://github.com/nivetha852/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/nivetha852/LeetCode-Problems/tree/master/0704-binary-search) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/nivetha852/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/nivetha852/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/nivetha852/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/nivetha852/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/nivetha852/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nivetha852/LeetCode-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
