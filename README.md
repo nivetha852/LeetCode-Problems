@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/nivetha852/LeetCode-Problems/tree/master/0493-reverse-pairs) |
+| [0523-continuous-subarray-sum](https://github.com/nivetha852/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/nivetha852/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/nivetha852/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0806-number-of-lines-to-write-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0806-number-of-lines-to-write-string) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/nivetha852/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/nivetha852/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/nivetha852/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/nivetha852/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/nivetha852/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nivetha852/LeetCode-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nivetha852/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/nivetha852/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/nivetha852/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/nivetha852/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/nivetha852/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/nivetha852/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nivetha852/LeetCode-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/nivetha852/LeetCode-Problems/tree/master/0164-maximum-gap) |
 | [0287-find-the-duplicate-number](https://github.com/nivetha852/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0523-continuous-subarray-sum](https://github.com/nivetha852/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nivetha852/LeetCode-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Linked List
 |  |
@@ -420,4 +424,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nivetha852/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/nivetha852/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
