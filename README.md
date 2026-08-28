@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/nivetha852/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/nivetha852/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/nivetha852/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/nivetha852/LeetCode-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 ## String
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/nivetha852/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/nivetha852/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/nivetha852/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/nivetha852/LeetCode-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nivetha852/LeetCode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/nivetha852/LeetCode-Problems/tree/master/0164-maximum-gap) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/nivetha852/LeetCode-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
