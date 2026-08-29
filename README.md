@@ -482,4 +482,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/nivetha852/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/nivetha852/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
+## Graph Theory
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/nivetha852/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
+## Graph Coloring
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/nivetha852/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
