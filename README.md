@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/nivetha852/LeetCode-Problems/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nivetha852/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/nivetha852/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/nivetha852/LeetCode-Problems/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nivetha852/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/nivetha852/LeetCode-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/nivetha852/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nivetha852/LeetCode-Problems/tree/master/0258-add-digits) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nivetha852/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/nivetha852/LeetCode-Problems/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nivetha852/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
 | ------- |
