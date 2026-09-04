@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/nivetha852/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/nivetha852/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/nivetha852/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/nivetha852/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/nivetha852/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/nivetha852/LeetCode-Problems/tree/master/0704-binary-search) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nivetha852/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/nivetha852/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/nivetha852/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/nivetha852/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/nivetha852/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/nivetha852/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nivetha852/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/nivetha852/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0324-wiggle-sort-ii) |
+| [0621-task-scheduler](https://github.com/nivetha852/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [0969-pancake-sorting](https://github.com/nivetha852/LeetCode-Problems/tree/master/0969-pancake-sorting) |
 ## Sorting
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/nivetha852/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/nivetha852/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/nivetha852/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/nivetha852/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/0912-sort-an-array) |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/nivetha852/LeetCode-Problems/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/nivetha852/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/nivetha852/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/nivetha852/LeetCode-Problems/tree/master/1051-height-checker) |
@@ -495,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/nivetha852/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/nivetha852/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/nivetha852/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/nivetha852/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/nivetha852/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
