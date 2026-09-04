@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/nivetha852/LeetCode-Problems/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nivetha852/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/nivetha852/LeetCode-Problems/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/nivetha852/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/nivetha852/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/nivetha852/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/nivetha852/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/nivetha852/LeetCode-Problems/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/nivetha852/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0980-unique-paths-iii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0980-unique-paths-iii) |
 ## Bucket Sort
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/nivetha852/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nivetha852/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nivetha852/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/nivetha852/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/nivetha852/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nivetha852/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nivetha852/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -625,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/nivetha852/LeetCode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nivetha852/LeetCode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nivetha852/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/nivetha852/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/nivetha852/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/nivetha852/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Graph Theory
@@ -724,4 +728,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/nivetha852/LeetCode-Problems/tree/master/0146-lru-cache) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/nivetha852/LeetCode-Problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
