@@ -518,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nivetha852/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/nivetha852/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/nivetha852/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 ## Stack
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/nivetha852/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nivetha852/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nivetha852/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0173-binary-search-tree-iterator](https://github.com/nivetha852/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/nivetha852/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/nivetha852/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nivetha852/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nivetha852/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/nivetha852/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nivetha852/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nivetha852/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nivetha852/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nivetha852/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nivetha852/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/nivetha852/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nivetha852/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nivetha852/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nivetha852/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
@@ -623,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nivetha852/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nivetha852/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Lifting
 |  |
@@ -634,4 +639,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nivetha852/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nivetha852/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nivetha852/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
