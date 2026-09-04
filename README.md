@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nivetha852/LeetCode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nivetha852/LeetCode-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/nivetha852/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nivetha852/LeetCode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/nivetha852/LeetCode-Problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-longest-duplicate-substring](https://github.com/nivetha852/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nivetha852/LeetCode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nivetha852/LeetCode-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/nivetha852/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/nivetha852/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0980-unique-paths-iii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0980-unique-paths-iii) |
+| [1631-path-with-minimum-effort](https://github.com/nivetha852/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/nivetha852/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/nivetha852/LeetCode-Problems/tree/master/1046-last-stone-weight) |
+| [1631-path-with-minimum-effort](https://github.com/nivetha852/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Geometry
 |  |
 | ------- |
@@ -624,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/nivetha852/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/nivetha852/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/nivetha852/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1631-path-with-minimum-effort](https://github.com/nivetha852/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -637,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/nivetha852/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/nivetha852/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/nivetha852/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1631-path-with-minimum-effort](https://github.com/nivetha852/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -741,4 +747,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/nivetha852/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/nivetha852/LeetCode-Problems/tree/master/0695-max-area-of-island) |
+| [1631-path-with-minimum-effort](https://github.com/nivetha852/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/nivetha852/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
