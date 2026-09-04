@@ -3,14 +3,14 @@ class Solution:
         n = len(points)
         edges = []
 
-        # Create all possible edges
+        
         for i in range(n):
             for j in range(i + 1, n):
                 cost = abs(points[i][0] - points[j][0]) + \
                        abs(points[i][1] - points[j][1])
                 edges.append((cost, i, j))
 
-        # Sort edges based on cost
+        
         edges.sort()
 
         parent = list(range(n))
