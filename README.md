@@ -633,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/nivetha852/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/nivetha852/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nivetha852/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/nivetha852/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/nivetha852/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1631-path-with-minimum-effort](https://github.com/nivetha852/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/nivetha852/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/nivetha852/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nivetha852/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/nivetha852/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/nivetha852/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1631-path-with-minimum-effort](https://github.com/nivetha852/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/nivetha852/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nivetha852/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/nivetha852/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/nivetha852/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1584-min-cost-to-connect-all-points](https://github.com/nivetha852/LeetCode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Coloring
@@ -771,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/nivetha852/LeetCode-Problems/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/nivetha852/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -795,4 +799,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/nivetha852/LeetCode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/nivetha852/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/nivetha852/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
