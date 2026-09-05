@@ -642,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nivetha852/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nivetha852/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nivetha852/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/nivetha852/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/nivetha852/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/nivetha852/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/nivetha852/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nivetha852/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nivetha852/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/nivetha852/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
+| [0684-redundant-connection](https://github.com/nivetha852/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/nivetha852/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/nivetha852/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/nivetha852/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/nivetha852/LeetCode-Problems/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/nivetha852/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/nivetha852/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nivetha852/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/nivetha852/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
@@ -785,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/nivetha852/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/nivetha852/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/nivetha852/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/nivetha852/LeetCode-Problems/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/nivetha852/LeetCode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
