@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/nivetha852/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nivetha852/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/nivetha852/LeetCode-Problems/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/nivetha852/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/nivetha852/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/nivetha852/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/nivetha852/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/nivetha852/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/nivetha852/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/nivetha852/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/nivetha852/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/nivetha852/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/nivetha852/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0140-word-break-ii) |
+| [0494-target-sum](https://github.com/nivetha852/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nivetha852/LeetCode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Simulation
@@ -892,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/nivetha852/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/nivetha852/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/nivetha852/LeetCode-Problems/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -908,4 +912,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/nivetha852/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/nivetha852/LeetCode-Problems/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
