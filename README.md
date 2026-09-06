@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nivetha852/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/nivetha852/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/nivetha852/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/nivetha852/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/nivetha852/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/nivetha852/LeetCode-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nivetha852/LeetCode-Problems/tree/master/0079-word-search) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/nivetha852/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/nivetha852/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nivetha852/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/nivetha852/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/nivetha852/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nivetha852/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/nivetha852/LeetCode-Problems/tree/master/0091-decode-ways) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nivetha852/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/nivetha852/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/nivetha852/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/nivetha852/LeetCode-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0402-remove-k-digits](https://github.com/nivetha852/LeetCode-Problems/tree/master/0402-remove-k-digits) |
